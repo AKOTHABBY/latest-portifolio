@@ -253,6 +253,7 @@ b, strong {
   transition: all 0.4s ease;
   position: relative;
 }
+/*
 
 .copyright-text {
   font-size: 16px;
@@ -310,7 +311,7 @@ b, strong {
 .dark-mode .owl-carousel .owl-nav button.owl-prev,
 .dark-mode .owl-carousel button.owl-dot {
   color: #ffffff;
-}
+}*/
 
 .timeline-wrapper {
   position: relative;
